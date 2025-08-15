@@ -1,0 +1,12 @@
+
+import React from 'react';
+
+const FlagRU: React.FC = () => (
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 9 6" className="rounded-sm">
+        <rect width="9" height="6" fill="#fff"/>
+        <rect width="9" height="4" y="2" fill="#d52b1e"/>
+        <rect width="9" height="2" y="2" fill="#0039a6"/>
+    </svg>
+);
+
+export default FlagRU;

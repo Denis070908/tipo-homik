@@ -1,0 +1,5 @@
+{
+  "name": "Homigrad Server Portal",
+  "description": "A web portal for the Homigrad Garry's Mod server community, showing server status, a store for perks, donation options, and a community wiki.",
+  "requestFramePermissions": []
+}
